@@ -172,7 +172,7 @@ Prevents false positives such as phones or BLE gadgets.
 ---
 
 ## 📁 Output Structure
-
+```
 report/
 └── DEVICE_NAME/
 ├── device_info.txt
@@ -181,7 +181,7 @@ report/
 ├── heatmap.txt
 ├── triangulation.html
 └── DEVICE_NAME.html
-
+```
 
 ---
 
