@@ -1,6 +1,4 @@
 # Car-Bluetooth-leak
-
-# BT-CAR Hacking Defalt  
 **Passive Automotive Bluetooth OSINT Toolkit**  
 Safe • Read-Only • No Pairing • No Exploitation
 
